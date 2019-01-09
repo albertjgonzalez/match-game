@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+#cardHolder{
+  display: flex;
+  flex-wrap: wrap;
+}
+Card{
+flex:1;
+
+}
